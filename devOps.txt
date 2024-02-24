@@ -1,0 +1,5 @@
+To create a new branch or check in which branch we currently are:-
+git branch
+
+To create/switch into a new branch in local system:-
+git checkout -b branch_name
